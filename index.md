@@ -22,7 +22,7 @@ My CV can be found [here](jyothsnaa cv.pdf)
 
        (joint work with J. M. Deshouillers and S. Gun)
        
-       (has appeared in : Math. Z. (2019), can be found [here](https://doi.org/10.1007/s00209-019-02434-2)
+       (has appeared in : Math. Z. (2019), https://doi.org/10.1007/s00209-019-02434-2)
 
 **Bold** and _Italic_ and `Code` text
 
