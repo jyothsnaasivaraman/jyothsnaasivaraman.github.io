@@ -1,5 +1,5 @@
 ---
-layout : default
+title  : Jyothsnaa Sivaraman
 ---
 
 I am a postdoc at the University of Toronto, Canada, working under <br/>
