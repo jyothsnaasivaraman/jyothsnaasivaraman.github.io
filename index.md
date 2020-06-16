@@ -3,7 +3,7 @@ Prof. V. Kumar Murty. I did my PhD at the Institute of Mathematical Sciences, Ch
 among rings of integers. My research interests range over topics in Algebraic Number theory and
 Sieve methods.
 
-My CV can be found [here](jyothsnaa cv copy.pdf)
+My CV can be found [here]()
 
 ### Markdown
 
