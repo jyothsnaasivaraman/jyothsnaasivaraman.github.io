@@ -1,3 +1,5 @@
+layout: default
+
 I am a postdoc at the University of Toronto, Canada, working under <br/>
 Prof. V. Kumar Murty. I did my PhD at the Institute of Mathematical Sciences, Chennai, India, under the supervision of Prof. Sanoli Gun. The subject of my thesis was the study of Euclidean domains appearing
 among rings of integers. My research interests range over topics in Algebraic Number theory and
