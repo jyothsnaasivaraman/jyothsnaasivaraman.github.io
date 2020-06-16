@@ -5,12 +5,9 @@ Sieve methods.
 
 My CV can be found [here](jyothsnaa cv.pdf)
 
-### Markdown
+### Publications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
