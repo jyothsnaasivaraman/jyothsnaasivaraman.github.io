@@ -1,5 +1,6 @@
 ---
 title : Jyothsnaa Sivaraman
+logo : IMAG0332 2
 ---
 
 I am a postdoc at the University of Toronto, Canada, working under <br/>
