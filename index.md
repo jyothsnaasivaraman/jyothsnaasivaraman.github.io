@@ -11,7 +11,7 @@ My CV can be found [here](jyothsnaa cv.pdf)
 
 1. Existence of Euclidean ideal classes beyond certain rank.
 
-   Appeared in : J. Ramanujan Math. Soc.  34, No.4 (2019), 427-432
+   Appeared in : J. Ramanujan Math. Soc. 34, No.4 (2019), 427-432
 
 2. On existence of Euclidean ideal classes in real cubic and quadratic fields with cyclic class group.
    (joint work with S. Gun) 
