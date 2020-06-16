@@ -8,6 +8,7 @@ My CV can be found [here](jyothsnaa cv.pdf)
 ### Publications
 
 - Accepted papers:
+
 1. Existence of Euclidean ideal classes beyond certain rank.
    Appeared in : J. Ramanujan Math. Soc.  34, No.4 (2019), 427-432
 
