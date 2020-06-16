@@ -15,13 +15,11 @@ My CV can be found [here](jyothsnaa cv.pdf)
 2. On existence of Euclidean ideal classes in real cubic and quadratic fields with cyclic class group.
        
        (joint work with S. Gun) 
-       
        (has appeared in : Michigan Math. J., Advance publication (2020))
        
 3. On Euclidean ideal classes in certain abelian extensions.
 
        (joint work with J. M. Deshouillers and S. Gun)
-       
        (has appeared in : Math. Z. (2019), https://doi.org/10.1007/s00209-019-02434-2)
 
 **Bold** and _Italic_ and `Code` text
