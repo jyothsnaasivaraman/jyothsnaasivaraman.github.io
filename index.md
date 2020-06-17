@@ -1,6 +1,6 @@
 ---
 title : Jyothsnaa Sivaraman
-logo : assets/IMG.jpeg
+logo : assets/logo.jpeg
 ---
 
 I am a postdoc at the University of Toronto, Canada, working under <br/>
