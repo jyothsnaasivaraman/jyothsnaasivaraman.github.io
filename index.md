@@ -1,6 +1,6 @@
 ---
+layout: _layouts/default.html
 site.title : Jyothsnaa Sivaraman
-site.logo : IMG.jpeg
 ---
 <img src= "assets/IMG.jpeg" width="20%" height="20%">)
 I am a postdoc at the University of Toronto, Canada, working under <br/>
