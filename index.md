@@ -1,5 +1,5 @@
 ---
-site.title : Jyothsnaa Sivaraman
+title : Jyothsnaa Sivaraman
 site.logo : assets/IMG.jpeg
 ---
 
