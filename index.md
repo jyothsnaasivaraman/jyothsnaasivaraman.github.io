@@ -1,5 +1,5 @@
 ---
-layout: _layouts/default.html
+layout: default
 site.title : Jyothsnaa Sivaraman
 ---
 <img src= "assets/IMG.jpeg" width="20%" height="20%">
