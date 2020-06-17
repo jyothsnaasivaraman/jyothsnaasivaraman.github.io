@@ -16,9 +16,9 @@
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default : Jyothsnaa Sivaraman }}</a></h1>
         
-        {% if site.logo %}
-          <img src="{{site.logo | assets/logo.jpeg}}" alt="Logo" />
-        {% endif %}
+        <p>
+        <img src="{{site.logo | assets/logo.jpeg}}" alt="Logo" />
+        </p>
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
