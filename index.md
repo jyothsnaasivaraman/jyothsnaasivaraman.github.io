@@ -1,7 +1,5 @@
 ---
 layout : default
----
----
 site.title : Jyothsnaa Sivaraman
 ---
 
