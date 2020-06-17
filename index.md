@@ -1,7 +1,6 @@
 ---
 site.title : Jyothsnaa Sivaraman
 ---
-<div class="wrapper">
 <header>
 <p class="view"><img src= "assets/IMG.jpeg" width="20%" height="20%"></p>
 </header>
