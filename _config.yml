@@ -1,4 +1,2 @@
 theme: jekyll-theme-minimal
 title: jyothsnaa sivaraman's homepage
-name: generate-sitemap
-uses: cicirello/generate-sitemap@v1.8.3
